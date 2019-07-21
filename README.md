@@ -1,2 +1,2 @@
-# Framples---Fake-news-generator
-Fake news generator using RNN
+# Framples (Fake-news-generator)
+Fake news generator using RNN.
